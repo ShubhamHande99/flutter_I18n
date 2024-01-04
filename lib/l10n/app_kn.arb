@@ -1,0 +1,20 @@
+{
+  "settings": "ಸಂಯೋಜನೆಗಳು",
+  "account": "ಖಾತೆ",
+  "accountSubtitle": "ಭದ್ರತಾ ಅಧಿಸೂಚನೆಗಳು, ಸಂಖ್ಯೆಯನ್ನು ಬದಲಾಯಿಸಿ",
+  "privacy": "ಗೌಪ್ಯತೆ",
+  "privacySubtitle": "ಸಂಪರ್ಕಗಳನ್ನು ನಿರ್ಬಂಧಿಸಿ, ಸಂದೇಶಗಳು ಕಣ್ಮರೆಯಾಗುತ್ತಿವೆ",
+  "avatar": "ಅವತಾರ",
+  "avatarSubtitle": "ರಚಿಸಿ, ಸಂಪಾದಿಸಿ, ಪ್ರೊಫೈಲ್ ಫೋಟೋ",
+  "chats": "ಚಾಟ್‌ಗಳು",
+  "chatsSubtitle": "ಥೀಮ್, ವಾಲ್‌ಪೇಪರ್‌ಗಳು, ಚಾಟ್ ಇತಿಹಾಸ",
+  "notifications": "ಅಧಿಸೂಚನೆಗಳು",
+  "notificationsSubtitle": "ಸಂದೇಶ, ಗುಂಪು",
+  "storageAndData": "ಸಂಗ್ರಹಣೆ ಮತ್ತು ಡೇಟಾ",
+  "storageAndDataSubtitle": "ನೆಟ್‌ವರ್ಕ್ ಬಳಕೆ, ಸ್ವಯಂ ಡೌನ್‌ಲೋಡ್",
+  "appLanguage": "ಅಪ್ಲಿಕೇಶನ್ ಭಾಷೆ",
+  "help": "ಸಹಾಯ",
+  "helpSubtitle": "ಸಹಾಯ ಕೇಂದ್ರ, ನಮ್ಮನ್ನು ಸಂಪರ್ಕಿಸಿ, ಗೌಪ್ಯತೆ ನೀತಿ",
+  "inviteAFriend": "ಸ್ನೇಹಿತನನ್ನು ಆಮಂತ್ರಿಸು",
+   "selectLanguage": "ಭಾಷೆಯನ್ನು ಆಯ್ಕೆಮಾಡಿ"
+}
