@@ -1,0 +1,20 @@
+{
+  "settings": "إعدادات",
+  "account": "حساب",
+  "accountSubtitle": "إشعارات أمنية، تغيير الرقم",
+  "privacy": "خصوصية",
+  "privacySubtitle": "حظر جهات الاتصال، واختفاء الرسائل",
+  "avatar": "الصورة الرمزية",
+  "avatarSubtitle": "إنشاء وتحرير وصورة الملف الشخصي",
+  "chats": "الدردشات",
+  "chatsSubtitle": "الموضوع والخلفيات وسجل الدردشة",
+  "notifications": "إشعارات",
+  "notificationsSubtitle": "رسالة يا جماعة",
+  "storageAndData": "التخزين والبيانات",
+  "storageAndDataSubtitle": "استخدام الشبكة، التحميل التلقائي",
+  "appLanguage": "لغة التطبيق",
+  "help": "يساعد",
+  "helpSubtitle": "مركز المساعدة، اتصل بنا، سياسة الخصوصية",
+  "inviteAFriend": "أدع صديقا",
+  "selectLanguage": "اختار اللغة"
+}
