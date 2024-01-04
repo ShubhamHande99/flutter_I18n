@@ -1,0 +1,20 @@
+{
+  "settings": "सेटिंग्ज",
+  "account": "खाते",
+  "accountSubtitle": "सुरक्षा सूचना, क्रमांक बदला",
+  "privacy": "गोपनीयता",
+  "privacySubtitle": "संपर्क अवरोधित करा, संदेश अदृश्य",
+  "avatar": "अवतार",
+  "avatarSubtitle": "प्रोफाइल फोटो तयार करा, संपादित करा",
+  "chats": "गप्पा",
+  "chatsSubtitle": "थीम, वॉलपेपर, चॅट इतिहास",
+  "notifications": "अधिसूचना",
+  "notificationsSubtitle": "संदेश, गट",
+  "storageAndData": "स्टोरेज आणि डेटा",
+  "storageAndDataSubtitle": "नेटवर्क वापर, स्वयं-डाउनलोड",
+  "appLanguage": "अॅप भाषा",
+  "help": "मदत करा",
+  "helpSubtitle": "मदत केंद्र, आमच्याशी संपर्क साधा, गोपनीयता धोरण",
+  "inviteAFriend": "मित्राला आमंत्रित करा",
+  "selectLanguage": "भाषा निवडा"
+}

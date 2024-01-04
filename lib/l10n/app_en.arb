@@ -1,0 +1,21 @@
+{
+  "settings": "Settings",
+  "account":"Account",
+  "accountSubtitle":"Security notifications, change number",
+  "privacy":"Privacy",
+  "privacySubtitle":"Block contacts, disappearing messages",
+  "avatar":"Avatar",
+  "avatarSubtitle":"Create, edit, profile photo",
+  "chats":"Chats",
+  "chatsSubtitle":"Theme, wallpapers, chat history",
+  "notifications":"Notifications",
+  "notificationsSubtitle":"Message, group & call tones",
+  "storageAndData":"Storage and data",
+  "storageAndDataSubtitle":"Network usage, auto-download",
+  "appLanguage":"App language",
+  "help":"Help",
+  "helpSubtitle":"Help center, contact us, privacy policy",
+  "inviteAFriend":"Invite a friend",
+  "selectLanguage":"Select language"
+
+}
